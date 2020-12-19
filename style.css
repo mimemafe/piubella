@@ -1,3 +1,4 @@
+
 h1 { 
 	font-size: 100px;
 	color: #DC143C; 
@@ -49,6 +50,7 @@ s{
 footer{
 	background-color: black; 
 	color: white;
+	size: auto;
 }
 
 .fab{
